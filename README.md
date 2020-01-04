@@ -6,7 +6,7 @@ In this study, we aim to infer the real-time and fine-grained crowd flows throug
 ## Paper
 Yuxuan Liang, Kun Ouyang, Lin Jing, Sijie Ruan, Ye Liu, Junbo Zhang, David S. Rosenblum and Yu Zheng. "[UrbanFM: Inferring Fine-Grained Urban Flows.](https://arxiv.org/pdf/1902.05377.pdf)", KDD 2019.
 
-If you find our code and dataset useful for your research, please cite our paper (preprint at arxiv):
+If you find our code and dataset useful for your research, please cite our paper at KDD-19:
 ```
 @inproceedings{Liang:2019:UIF:3292500.3330646,
  author = {Liang, Yuxuan and Ouyang, Kun and Jing, Lin and Ruan, Sijie and Liu, Ye and Zhang, Junbo and Rosenblum, David S. and Zheng, Yu},
